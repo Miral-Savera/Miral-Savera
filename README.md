@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miral-Savera)](https://git.io/streak-stats)  ![Miral Savera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miral-Savera&theme=buefy&show_icons=true) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miral-Savera&theme=dark)](https://git.io/streak-stats)  ![Miral Savera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miral-Savera&theme=buefy&show_icons=true) 
 
 <!--
 **Miral-Savera/Miral-Savera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
